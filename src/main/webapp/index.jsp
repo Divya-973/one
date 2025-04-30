@@ -14,6 +14,8 @@
 	<h1 style="color: yellow ; font-size: 40px;" align="center">WE integrated nexus also</h1>
 	<h1 style="color: viloet ; font-size: 40px;" align="center">Divya, Lahari</h1>
 	<h1 style="color: yellow ; font-size: 40px;" align="center">WE integrated nexus also</h1>
+	<h1 style="color: viloet ; font-size: 40px;" align="center">Divya, Lahari</h1>
+
 
 
 
